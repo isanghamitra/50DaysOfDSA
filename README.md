@@ -7,3 +7,9 @@ Data structure and algorithms help in understanding the nature of the problem at
 
 <p align="center"><img src="https://www.cdn.geeksforgeeks.org/wp-content/uploads/Competitive-Programming-1.jpg" width="300" height="220">
 </p>
+
+This is my 50 days timeline :
+
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Completed :page_facing_up:**| **Reference**|
+|------|-----------------|--------------------|---------------------|
+|Day 1|August 10, 2020| C++ basics, Arrays and Pointers| [Notes](https://drive.google.com/drive/folders/1TXgvHKFqk0TNqTCWMTUagqEApvEUbyAN?usp=sharing)
